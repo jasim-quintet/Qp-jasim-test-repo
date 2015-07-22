@@ -1,2 +1,2 @@
 # Qp-jasim-test-repo
-This is a test repository.
+This repo is used for testing only.
